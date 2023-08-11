@@ -7,7 +7,7 @@
 
 ⚡Gosto de codificar ouvindo músic 
 
-💬Pergunte-me sobre Rei Leão, HTML e CSS
+💬Pergunte-me sobre Rei Leão, HTML, CSS e Javascript, mas tem que ter café
 
 
 
