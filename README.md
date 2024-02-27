@@ -3,7 +3,7 @@
 
 ## 🐱‍👤Sobre Mim:
 
-💻Curso Análise e Desenvolvimento de Sistema, além de estar cursando Desenvolvimento FULLSTACK
+💻Análista e desenvolvedor FullStack
 
 ⚡Gosto de codificar ouvindo música 
 
